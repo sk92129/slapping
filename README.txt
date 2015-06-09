@@ -97,4 +97,3 @@ you have extra time:
 	Critical 	- Percentage chance to inflict critical damage (x2)
 	Initiative 	- Added to random roll for deciding who goes first each round
 
-The time limit for this challenge is no more than 180 minutes. Place your application files into a zip file titled with your name and submit it.

@@ -10,6 +10,8 @@ import com.seankang.slapping.view.View;
 public class Main {
 
 	public static void main (String [] args) {
+		
+		System.out.println("starting slapping game");
 		BattleData.loadBattleData();
 		View view = new View();
 

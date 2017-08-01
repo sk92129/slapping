@@ -11,7 +11,7 @@ public class Main {
 
 	public static void main (String [] args) {
 		
-		System.out.println("starting slapping game");
+		System.out.println("starting matthew game");
 		BattleData.loadBattleData();
 		View view = new View();
 

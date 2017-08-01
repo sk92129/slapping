@@ -12,6 +12,7 @@ public class Main {
 	public static void main (String [] args) {
 		
 		System.out.println("starting matthew game");
+		// this comment
 		BattleData.loadBattleData();
 		View view = new View();
 
